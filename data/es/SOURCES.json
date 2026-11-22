@@ -1,0 +1,13 @@
+{
+  "text": {
+    "title": "Santa Biblia — Reina Valera 1909",
+    "english": "The Holy Bible in Spanish, Reina-Valera translation, 1909 revision",
+    "copyright": "Public domain",
+    "licence": "Public domain",
+    "source": "https://ebible.org/spaRV1909/",
+    "sourceLabel": "eBible.org (spaRV1909)",
+    "sourceDate": "source files dated 2015-08-10",
+    "changes": "The verse wording is unchanged. The Strong’s numbers the source attaches to its words are not shown, nor the eighteen verse numbers it leaves empty where the Spanish numbering differs from the English (Jonah 1:17 is 2:1 here, its words in their place); the verses are laid out by Biblia."
+  },
+  "files": "The JSON files of this folder are the verses as Biblia reads them; the text is in the public domain."
+}
